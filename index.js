@@ -11,7 +11,7 @@ app.use(
     })
 );
 
-const URL = "mongodb://localhost:27017"
+const URL = "mongodb+srv://vijay:admin123@cluster0.ni9t3.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 
 let users = [];
 
